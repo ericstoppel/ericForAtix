@@ -62,7 +62,7 @@ public class MonitoringSystem extends Thread{
         try {
             while (true) {
                 this.processStack();
-                Thread.sleep(50000);
+                Thread.sleep(30000);
             }
         }catch (Exception ex){}
     }

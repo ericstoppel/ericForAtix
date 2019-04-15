@@ -1,6 +1,5 @@
 package com.eric.atix;
 
-import com.eric.atix.Model.MonitoringSystem;
 import com.eric.atix.Model.Sensor;
 
 public class RunSimulation {
