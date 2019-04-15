@@ -1,6 +1,11 @@
 Nombre: Eric Stoppel
 
-Para correr los tests se debe correr la api primero.
+Word: https://docs.google.com/document/d/11cg43DPfuJKbimRiKIdhA1rDGGLAN8-XTcjZ8GptdrM/edit?usp=sharing
+
+CONSIDERACIONES IMPORTANTES:
+
+    - Para correr los tests se debe correr la api primero.
+    - Crear la carpeta logs adentro de src/main/resources
     
 
 REQUISITOS: 
