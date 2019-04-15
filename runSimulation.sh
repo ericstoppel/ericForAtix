@@ -1,0 +1,1 @@
+java -cp target/MeliPlanets-1.0-SNAPSHOT.jar com.meli.Model.RunSimulation
